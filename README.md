@@ -42,7 +42,11 @@ A deep learning project that predicts whether a Titanic passenger would have sur
 
 # Pipline 
 ...
+Training 
+
 <img width="702" height="214" alt="Image" src="https://github.com/user-attachments/assets/1f0a1ebd-6beb-41ea-a67e-0f4b16fae3e7" />
+
+After training Streamlit app (app.py) 
 
 <img width="702" height="214" alt="Image" src="https://github.com/user-attachments/assets/bdd8553f-eee2-4674-a283-b3652592bc3f" />
 ...
