@@ -56,6 +56,8 @@ After training Streamlit app (app.py)
 # DEMO 
 
 <img width="1906" height="1020" alt="Image" src="https://github.com/user-attachments/assets/57eb67bc-02e5-40fb-864a-fbaacf6240e0" />
+
+<img width="778" height="777" alt="Image" src="https://github.com/user-attachments/assets/5f7eb5b0-d3dd-48bc-aff1-cda4aa52dd49" />
 ...
 
 ## 📊 DATASET
