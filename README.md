@@ -1,15 +1,12 @@
 # PROJECT TITLE :
 
-Titanic-Passenger-Survival-chance-using-Deep-Learning
+Titanic-Passenger-Survival-chance-using-Deep-Learning(ANN + Streamlit)
 
 # DESCRIPTION:
 
-The Application predicts that whether if a passenger is going to survive the titanic journey or not. using deep learning ANN
-
-
-Titanic Passenger Survival Prediction (ANN + Streamlit)
-
-A deep learning project that predicts whether a Titanic passenger would have survived, based on ticket class, gender, family size, fare and port of embarkation. The model is a feed-forward Artificial Neural Network built with **TensorFlow/Keras**, trained on a **~1 million row** Titanic-style dataset, and served through an interactive **Streamlit** web app.
+The Application predicts that whether if a passenger is going to survive the titanic journey or not.  based on ticket class, gender, family size, fare and port of embarkation. 
+The model is a feed-forward Artificial Neural Network built with **TensorFlow/Keras**, trained on a **~1 million row** Titanic-style dataset, and served through an interactive **Streamlit** web app.
+using deep learning ANN 
 
 ---
 
@@ -189,6 +186,12 @@ Result      : The passenger likely survive the titanic journey
 - Add test-set evaluation (confusion matrix, precision, recall, F1)
 - Deploy the app on Streamlit Community Cloud
 - Add app screenshots / demo GIF
+
+  👤 Author
+
+Bhagwati | B.Tech in Artificial Intelligence & Data Science
+
+[[GitHub](https://github.com/Bhagwati2316)] |[ LinkedIn](https://www.linkedin.com/in/bhagwati-ahirwar-691019236/?isSelfProfile=true)
 
 
 
