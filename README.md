@@ -1,7 +1,8 @@
-# Title:
+# PROJECT TITLE :
+
 Titanic-Passenger-Survival-chance-using-Deep-Learning
 
-# Description:
+# DESCRIPTION:
 
 The Application predicts that whether if a passenger is going to survive the titanic journey or not. using deep learning ANN
 
@@ -22,7 +23,7 @@ A deep learning project that predicts whether a Titanic passenger would have sur
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ PROJECT STRUCTURE
 
 ```
 ├── Project.ipynb        # Data preprocessing, training and model saving
@@ -40,7 +41,7 @@ A deep learning project that predicts whether a Titanic passenger would have sur
 
 ---
 
-# Pipline 
+# PIPLINE
 ...
 Training 
 
@@ -56,7 +57,8 @@ After training Streamlit app (app.py)
 
 <img width="1906" height="1020" alt="Image" src="https://github.com/user-attachments/assets/57eb67bc-02e5-40fb-864a-fbaacf6240e0" />
 ...
-## 📊 Dataset
+
+## 📊 DATASET
 
 - **Rows:** 1,000,000 | **Original columns:** 12
 - **Target:** `Survived` (0 = did not survive, 1 = survived)
@@ -75,7 +77,7 @@ After training Streamlit app (app.py)
 
 ---
 
-## ⚙️ Preprocessing
+## ⚙️ PREPROCESSING
 
 1. Dropped irrelevant / heavily-missing columns
 2. Removed rows with a missing `Embarked` value
@@ -89,7 +91,7 @@ After training Streamlit app (app.py)
 
 ---
 
-## 🧠 Model Architecture
+## 🧠 MODEL ARCHITECTURE
 
 | Layer    | Units | Activation |
 |----------|-------|------------|
@@ -106,7 +108,7 @@ After training Streamlit app (app.py)
 - **Callback:** `EarlyStopping` (monitor = `val_loss`, patience = 5, `restore_best_weights=True`)
 - **Epochs:** up to 10
 
-### Results
+### RESULT
 
 | Metric              | Value   |
 |---------------------|---------|
@@ -167,7 +169,7 @@ Result      : The passenger likely survive the titanic journey
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 - Python
 - TensorFlow / Keras
@@ -178,7 +180,7 @@ Result      : The passenger likely survive the titanic journey
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 FUTURE IMPROVEMENTS
 
 - Include `Age` using proper imputation
 - Save the model in the native `.keras` format instead of legacy `.h5`
@@ -186,16 +188,6 @@ Result      : The passenger likely survive the titanic journey
 - Deploy the app on Streamlit Community Cloud
 - Add app screenshots / demo GIF
 
----
 
-## 👤 Author
-
-**Bhagwati**
-B.Tech in Artificial Intelligence & Data Science
-
-- GitHub: `<your-github-link>`
-- LinkedIn: `<your-linkedin-link>`
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
