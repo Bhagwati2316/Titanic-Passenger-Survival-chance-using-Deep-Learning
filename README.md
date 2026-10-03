@@ -51,6 +51,11 @@ After training Streamlit app (app.py)
 <img width="702" height="214" alt="Image" src="https://github.com/user-attachments/assets/bdd8553f-eee2-4674-a283-b3652592bc3f" />
 ...
 
+...
+# DEMO 
+
+<img width="1906" height="1020" alt="Image" src="https://github.com/user-attachments/assets/57eb67bc-02e5-40fb-864a-fbaacf6240e0" />
+...
 ## 📊 Dataset
 
 - **Rows:** 1,000,000 | **Original columns:** 12
